@@ -1,6 +1,6 @@
 {
   "name": "retrieve-object-child",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "Retrieves object children",
   "main": "index.js",
   "scripts": {
