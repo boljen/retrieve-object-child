@@ -12,6 +12,7 @@
     "child",
     "nested"
   ],
+  "repository": "boljen/retrieve-object-child",
   "author": "Christophe Bol",
   "license": "MIT",
   "devDependencies": {
